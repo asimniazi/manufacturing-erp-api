@@ -1,0 +1,91 @@
+{
+  "forecast": [
+    {
+      "product_id": "SKU001",
+      "product_name": "Steel Bolts M8x25",
+      "weekly_forecast": 150,
+      "confidence": 0.85,
+      "trend": "stable",
+      "last_updated": "2025-09-28"
+    },
+    {
+      "product_id": "SKU002",
+      "product_name": "Aluminum Sheets 2mm",
+      "weekly_forecast": 45,
+      "confidence": 0.78,
+      "trend": "increasing",
+      "last_updated": "2025-09-28"
+    },
+    {
+      "product_id": "SKU003",
+      "product_name": "Rubber Gaskets",
+      "weekly_forecast": 89,
+      "confidence": 0.92,
+      "trend": "stable",
+      "last_updated": "2025-09-28"
+    },
+    {
+      "product_id": "SKU004",
+      "product_name": "Plastic Housings",
+      "weekly_forecast": 67,
+      "confidence": 0.81,
+      "trend": "decreasing",
+      "last_updated": "2025-09-28"
+    },
+    {
+      "product_id": "SKU005",
+      "product_name": "Copper Wiring 12AWG",
+      "weekly_forecast": 234,
+      "confidence": 0.89,
+      "trend": "increasing",
+      "last_updated": "2025-09-28"
+    },
+    {
+      "product_id": "SKU006",
+      "product_name": "Stainless Screws M6",
+      "weekly_forecast": 78,
+      "confidence": 0.84,
+      "trend": "stable",
+      "last_updated": "2025-09-28"
+    },
+    {
+      "product_id": "SKU007",
+      "product_name": "Glass Components",
+      "weekly_forecast": 12,
+      "confidence": 0.76,
+      "trend": "decreasing",
+      "last_updated": "2025-09-28"
+    },
+    {
+      "product_id": "SKU008",
+      "product_name": "Electronic Modules",
+      "weekly_forecast": 34,
+      "confidence": 0.88,
+      "trend": "stable",
+      "last_updated": "2025-09-28"
+    },
+    {
+      "product_id": "SKU009",
+      "product_name": "Ceramic Insulators",
+      "weekly_forecast": 156,
+      "confidence": 0.91,
+      "trend": "increasing",
+      "last_updated": "2025-09-28"
+    },
+    {
+      "product_id": "SKU010",
+      "product_name": "Carbon Fiber Sheets",
+      "weekly_forecast": 23,
+      "confidence": 0.79,
+      "trend": "stable",
+      "last_updated": "2025-09-28"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-09-28T05:00:00Z",
+    "forecast_horizon": "7_days",
+    "total_products": 10,
+    "average_confidence": 0.84,
+    "data_source": "manufacturing_erp_system"
+  }
+}
